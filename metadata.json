@@ -1,0 +1,6 @@
+{
+  "name": "CryoPlan",
+  "description": "Integrated Lunar South Pole Mission Planning Workstation for planetary scientists and ISRO mission planners analyzing Chandrayaan-2 datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
